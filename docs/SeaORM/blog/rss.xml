@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>SeaORM - 🐚 An async &amp; dynamic ORM for Rust Blog</title>
+        <link>https://www.sea-ql.org/SeaORM/blog</link>
+        <description>SeaORM - 🐚 An async &amp; dynamic ORM for Rust Blog</description>
+        <lastBuildDate>Mon, 20 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Introducing SeaORM]]></title>
+            <link>https://www.sea-ql.org/SeaORM/blog/2021-09-20-introducing-sea-orm</link>
+            <guid>2021-09-20-introducing-sea-orm</guid>
+            <pubDate>Mon, 20 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[We are pleased to introduce SeaORM 0.2.2 to the Rust community today. It's our pleasure to have received feedback and contributions from awesome people to SeaQuery and SeaORM since 0.1.0.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Release Model]]></title>
+            <link>https://www.sea-ql.org/SeaORM/blog/2021-08-30-release-model</link>
+            <guid>2021-08-30-release-model</guid>
+            <pubDate>Mon, 30 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today we will outline our release plan in the near future.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <link>https://www.sea-ql.org/SeaORM/blog/2021-08-07-hello-world</link>
+            <guid>2021-08-07-hello-world</guid>
+            <pubDate>Sat, 07 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[After 8 months of secrecy, SeaORM is now public!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to SeaORM]]></title>
+            <link>https://www.sea-ql.org/SeaORM/blog/2021-07-01-welcome</link>
+            <guid>2021-07-01-welcome</guid>
+            <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[One year ago, when we were writing data processing algorithms in Rust, we needed an async library to interface with a database. Back then, there weren't many choices. So we have to write our own.]]></description>
+        </item>
+    </channel>
+</rss>

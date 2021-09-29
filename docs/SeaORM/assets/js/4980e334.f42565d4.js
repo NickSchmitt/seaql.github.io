@@ -1,0 +1,1 @@
+(self.webpackChunksea_orm=self.webpackChunksea_orm||[]).push([[2549],{3584:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/SeaORM/blog/tags","slug":"news","name":"news","count":4,"permalink":"/SeaORM/blog/tags/news"}')}}]);

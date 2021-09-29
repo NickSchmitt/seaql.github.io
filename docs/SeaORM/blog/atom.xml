@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.sea-ql.org/SeaORM/blog</id>
+    <title>SeaORM - 🐚 An async &amp; dynamic ORM for Rust Blog</title>
+    <updated>2021-09-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.sea-ql.org/SeaORM/blog"/>
+    <subtitle>SeaORM - 🐚 An async &amp; dynamic ORM for Rust Blog</subtitle>
+    <icon>https://www.sea-ql.org/SeaORM/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Introducing SeaORM]]></title>
+        <id>2021-09-20-introducing-sea-orm</id>
+        <link href="https://www.sea-ql.org/SeaORM/blog/2021-09-20-introducing-sea-orm"/>
+        <updated>2021-09-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to introduce SeaORM 0.2.2 to the Rust community today. It's our pleasure to have received feedback and contributions from awesome people to SeaQuery and SeaORM since 0.1.0.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release Model]]></title>
+        <id>2021-08-30-release-model</id>
+        <link href="https://www.sea-ql.org/SeaORM/blog/2021-08-30-release-model"/>
+        <updated>2021-08-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today we will outline our release plan in the near future.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>2021-08-07-hello-world</id>
+        <link href="https://www.sea-ql.org/SeaORM/blog/2021-08-07-hello-world"/>
+        <updated>2021-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After 8 months of secrecy, SeaORM is now public!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to SeaORM]]></title>
+        <id>2021-07-01-welcome</id>
+        <link href="https://www.sea-ql.org/SeaORM/blog/2021-07-01-welcome"/>
+        <updated>2021-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One year ago, when we were writing data processing algorithms in Rust, we needed an async library to interface with a database. Back then, there weren't many choices. So we have to write our own.]]></summary>
+    </entry>
+</feed>
